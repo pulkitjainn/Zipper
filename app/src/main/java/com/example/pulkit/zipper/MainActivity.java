@@ -24,7 +24,6 @@ import java.util.zip.ZipOutputStream;
 public class MainActivity extends AppCompatActivity {
 
     public static final String TAG = "MA";
-
     public static final int BUFFER = 2048;
 
     Button zip,unzip;
